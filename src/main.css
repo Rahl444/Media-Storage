@@ -1,0 +1,20 @@
+body{
+    background: url("background.jfif");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.flex-parent-element {
+    display: flex;
+    width: 100%;
+  }
+  
+  .flex-child-element {
+    flex: 1;
+    margin: 3%;
+    
+  }
+  
+  .flex-child-element:first-child {
+    
+  }
